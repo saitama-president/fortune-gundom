@@ -1,0 +1,8 @@
+# /bin/bash
+
+vim .TEXT
+cat .TEXT >> UC/first_gundom
+echo "
+%" >> UC/first_gundom
+
+strfile UC/first_gundom
